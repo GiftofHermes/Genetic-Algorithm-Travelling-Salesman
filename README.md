@@ -9,7 +9,7 @@ Randomly generated points with x and y coordinates.
 It is assumed that all valid journeys start and end at the origin.  
 Genes are every destination we need to visit in order.   
 i.e  
-1- 0,0
+1- 0,0  
 2- 12,2  
 3- 3,5  
 4- 4,8  
